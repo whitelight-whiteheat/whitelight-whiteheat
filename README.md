@@ -38,19 +38,19 @@ My personal portfolio built with React and TypeScript, featuring a modern design
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitelight-whiteheat&layout=compact&theme=radical)
 
-### �� Achievements
+### 🌱 Achievements
 
 - **Arctic Code Vault Contributor** - Contributed to repositories preserved in the GitHub Arctic Code Vault
 
 ### 🌟 What I'm Working On
 
-- 🔧 Building scalable e-commerce solutions and web applications
-- �� Creating intuitive user experiences with modern design principles
-- 📚 Learning new technologies and best practices in full-stack development
-- 🤝 Contributing to open source projects and collaborating with the tech community
-- 🚀 Exploring innovative solutions for complex business problems
+- Building scalable e-commerce solutions and web applications
+- Creating intuitive user experiences with modern design principles
+- Learning new technologies and best practices in full-stack development
+- Contributing to open source projects and collaborating with the tech community
+- Exploring innovative solutions for complex business problems
 
-### �� Get In Touch
+### 👯 Get In Touch
 
 - **Portfolio:** [View My Portfolio](https://github.com/whitelight-whiteheat/jportfolio)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/justin-mpotter/)
