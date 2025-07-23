@@ -23,9 +23,6 @@ I'm a passionate fullstack developer based in Brooklyn, NY, specializing in buil
 
 ### 🎯 Featured Projects
 
-#### [2DU-V4](https://github.com/whitelight-whiteheat/2DU-V4)
-A TypeScript-based project showcasing modern development practices and innovative solutions.
-
 #### [commerceFlow-v2](https://github.com/whitelight-whiteheat/commerceFlow-v2)
 A JavaScript e-commerce solution designed for seamless online shopping experiences.
 
