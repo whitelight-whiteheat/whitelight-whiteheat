@@ -52,11 +52,11 @@ My personal portfolio built with React and TypeScript, featuring a modern design
 
 ### 💡 Fun Facts
 
-- �� I enjoy gaming and exploring new technologies
-- ☕ Coffee enthusiast and productivity seeker
-- 🌍 Always excited to learn about different cultures and perspectives
-- 🏙️ Based in the vibrant tech community of Brooklyn, NY
-- 🎯 Passionate about creating digital experiences that solve real problems
+- I enjoy gaming and exploring new technologies
+- Coffee enthusiast and productivity seeker
+- Always excited to learn about different cultures and perspectives
+- Based in the vibrant tech community of Brooklyn, NY
+- Passionate about creating digital experiences that solve real problems
 
 ---
 
