@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Justin Potter
 
-## 🚀 Full-Stack Developer & Tech Enthusiast
+## 🚀 Full-Stack Developer & Digital Artist 
 
 I'm a passionate fullstack developer based in Brooklyn, NY, specializing in building scalable e-commerce solutions and modern web applications. With a background in Computer Science and 2+ years of hands-on development experience, I've developed a deep understanding of both frontend and backend technologies.
 
@@ -38,11 +38,7 @@ My personal portfolio built with React and TypeScript, featuring a modern design
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitelight-whiteheat&layout=compact&theme=radical)
 
-### 🌱 Achievements
-
-- **Arctic Code Vault Contributor** - Contributed to repositories preserved in the GitHub Arctic Code Vault
-
-### 🌟 What I'm Working On
+### 🌱 What I'm Working On
 
 - Building scalable e-commerce solutions and web applications
 - Creating intuitive user experiences with modern design principles
